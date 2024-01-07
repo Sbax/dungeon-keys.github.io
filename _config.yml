@@ -16,7 +16,7 @@ timezone: Europe/Rome
 
 title: Dungeon Keys # the main title
 
-tagline: Un blog. # it will display as the sub-title
+tagline: Un blog. Forse. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Un blog.
@@ -73,7 +73,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: "/commons/dkblocklogo1.svg"
 
 # boolean type, the global switch for TOC in posts.
 toc: true

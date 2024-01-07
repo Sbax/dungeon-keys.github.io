@@ -713,17 +713,17 @@ $btn-mb: 0.5rem;
 
   #avatar {
     display: block;
-    width: 7rem;
-    height: 7rem;
-    overflow: hidden;
-    box-shadow: var(--avatar-border-color) 0 0 0 2px;
+    width: 11rem;
+    height: 9rem;
+    overflow: visible;
+  /* box-shadow: var(--avatar-border-color) 0 0 0 2px; */
     transform: translateZ(0); /* fixed the zoom in Safari */
 
     img {
       transition: transform 0.5s;
 
       &:hover {
-        transform: scale(1.2);
+        transform: scale(1.1);
       }
     }
   }
