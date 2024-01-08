@@ -6,7 +6,7 @@ order: 5
 
 ### Communities
 
-<i class="fa-brands fa-telegram"></i>&nbsp; [Ruling the Game](http://t.me/osritalia)
+<i class="fa-brands fa-telegram"></i>&nbsp; [Ruling the Game](https://t.me/osritalia)
 
 <i class="fa-brands fa-discord"></i> [Il Grande COSMO](https://discord.gg/asQPwXPXeB) - Convention Old School Mensile Online
 
