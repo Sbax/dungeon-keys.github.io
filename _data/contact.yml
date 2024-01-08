@@ -1,7 +1,7 @@
 #  The contact options.
 
-- type: github
-  icon: "fab fa-github"
+- type: github #actually, itch.io
+  icon: "fa-brands fa-itch-io"
 
 - type: twitter #actually, telegram
   icon: "fa-brands fa-telegram"

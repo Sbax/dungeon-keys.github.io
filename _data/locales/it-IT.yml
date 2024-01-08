@@ -10,11 +10,11 @@ layout:
 # The tabs of sidebar
 tabs:
   # format: <filename_without_extension>: <value>
-  home: Pagina principale
+  home: Home
   categories: Categorie
   tags: Tags
   archives: Archivio
-  about: Informazioni
+  about: Links
 
 # the text displayed in the search bar & search results
 search:
