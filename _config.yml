@@ -23,7 +23,7 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://dungeon-keys.github.io"
 
 github:
   username: dungeon-keys # change to your github username
@@ -50,7 +50,7 @@ google_site_verification: # fill in to your verification string
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id: # fill in your Google Analytics ID
+  id: G-ZF43W3005P
 
 # Prefer color scheme setting.
 #
@@ -79,10 +79,10 @@ avatar: "/commons/dkblocklogo1.svg"
 toc: true
 
 comments:
-  active: # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
+  active: disqus
   # The active options are as follows:
   disqus:
-    shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+    shortname: dungeon-keys
   # utterances settings › https://utteranc.es/
   utterances:
     repo: # <gh-username>/<repo>
