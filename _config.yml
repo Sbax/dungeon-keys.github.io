@@ -28,8 +28,8 @@ url: "https://dungeon-keys.github.io"
 github:
   username: dungeon-keys # change to your github username
 
-twitter:
-  username: twitter_username # change to your twitter username
+twitter: # barbaramente cambiato in Telegram, tutto alla cazzomannaggia
+  username: CrawlingChaox # change to your Telegram username
 
 social:
   # Change to your full name.
@@ -38,8 +38,8 @@ social:
   email: dungeonk3ys@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://t.me/CrawlingChaox # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    - https://t.me/CrawlingChaox # change to your twitter homepage - update: telegram
+    - https://github.com/dungeon-keys # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
