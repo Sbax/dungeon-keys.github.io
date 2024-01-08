@@ -73,7 +73,7 @@ theme_mode: dark
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/commons/dkblocklogo1.svg"
+avatar: "/assets/img/favicons/dkblocklogo1.svg"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
