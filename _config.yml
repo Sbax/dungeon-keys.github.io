@@ -90,7 +90,7 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: dungeon-keys/dungeon-keys.github.io
-    repo_id: R_kgDOLBwvRQ
+    repo_id: 740044613
     category: Announcements
     category_id: DIC_kwDOLBwvRc4CcR5L
     mapping: # optional, default to 'pathname'
