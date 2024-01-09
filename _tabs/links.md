@@ -30,6 +30,7 @@ order: 5
 | [jonnie](https://write.as/jonnie/)                                          | [<i class="fa-solid fa-link"></i>](https://dungeon-keys.github.io/) | Dada Dan Akiko        |
 | [Ruling With Archangels](https://archangelruling.blogfree.net/)             |                                          | Barakiel              |
 | [Gli gnoll hanno massacrato la mia famiglia](https://gnollmassacrofamiglia.blogspot.com/)  |                           | Luca Negri            |
+| [icemaze](https://icemaze.it/en/)                                           |                                          | icemaze               |
 
 | <i class="fa-solid fa-earth-americas"></i>                                  |  <i class="fa-solid fa-star"></i>        | Autore                |
 |:----------------------------------------------------------------------------|:----------------------------------------:|----------------------:|
