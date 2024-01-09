@@ -10,7 +10,7 @@ order: 5
 
 <i class="fa-brands fa-telegram"></i>&nbsp; [Ruling the Game](https://t.me/osritalia)
 
-<i class="fa-brands fa-discord"></i> [Il Grande COSMO](https://discord.gg/asQPwXPXeB)&ensp;-&ensp;Convention Old School Mensile Online
+<i class="fa-brands fa-discord"></i> [Il Grande COSMO](https://discord.gg/asQPwXPXeB)&ensp;-&ensp;<span style="color:#ccc6ba">Convention Old School Mensile Online</span>
 
 &nbsp;<i class="fa-solid fa-asterisk"></i>&nbsp; [Alleanza OSR Pizza](https://linktr.ee/alleanzaosrpizza)
 
@@ -28,15 +28,19 @@ order: 5
 | [Arcipelago Celeste](https://arcipelagoceleste.blogspot.com/)               | [<i class="fa-solid fa-link"></i>](https://dungeon-keys.github.io/) | Pedro Celeste         |
 | [AUTARKIKAGDR](https://autarkikagdr.blogspot.com/)                          |                                          | Manuel Colleoni       |
 | [Deeper Into the Dungeon](https://deeperintothedungeon.wordpress.com/)      | [<i class="fa-solid fa-link"></i>](https://dungeon-keys.github.io/) | Alessio Persichetti   |
+| [The circular ruins](https://thecircularuins.blogspot.com/)                 | [<i class="fa-solid fa-link"></i>](https://dungeon-keys.github.io/) | Edoardo Andreani      |
 | [Dietro lo Schermo](https://dietroschermo.wordpress.com/)                   | [<i class="fa-solid fa-link"></i>](https://dungeon-keys.github.io/) | Bille Boo             |
 | [Bad Whiskey Games](https://badwhiskeygames.blogspot.com/)                  | [<i class="fa-solid fa-link"></i>](https://dungeon-keys.github.io/) | Simone Di Francesco   |
 | [Geecko on the Wall](https://www.geeckoonthewall.eu/)                       |                                          | Daniele Di Rubbo      |
 | [I Cancelli di Hellwinter](https://hellwinter.blogspot.com/)                | [<i class="fa-solid fa-link"></i>](https://dungeon-keys.github.io/) | Andrea Tupac Mollica  |
 | [Omnia Incommoda, Certitudo Nulla](https://oicn.icu/)                       | [<i class="fa-solid fa-link"></i>](https://dungeon-keys.github.io/) | The Kernel in Yellow  |
-| [jonnie](https://write.as/jonnie/)                                          | [<i class="fa-solid fa-link"></i>](https://dungeon-keys.github.io/) | Dada Dan Akiko        |
+| [Dada Dan Akiko](https://write.as/jonnie/)                                  | [<i class="fa-solid fa-link"></i>](https://dungeon-keys.github.io/) | Dada Dan Akiko        |
 | [Ruling With Archangels](https://archangelruling.blogfree.net/)             |                                          | Barakiel              |
 | [Gli gnoll hanno massacrato la mia famiglia](https://gnollmassacrofamiglia.blogspot.com/)  |                           | Luca Negri            |
 | [icemaze](https://icemaze.it/en/)                                           |                                          | icemaze               |
+| [Il Calderone del Troll](https://calderonedeltroll.blogspot.com/)           |                                          | Gregorio - Viandante  |
+
+Gli aggiornamenti dell'italica blogosfera si possono seguire anche su [La Gazzetta dell'OSR](https://gazzetta.oicn.icu/).
 
 | <i class="fa-solid fa-earth-americas"></i>                                  |  <i class="fa-solid fa-star"></i>        | Autore                |
 |:----------------------------------------------------------------------------|:----------------------------------------:|----------------------:|
