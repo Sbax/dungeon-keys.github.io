@@ -21,7 +21,7 @@ order: 5
 | [La Fumeria dei Pensieri Incompiuti](https://dismastersden.blogspot.com/)                  | Dismaster FraNe         |
 | [Arcipelago Celeste](https://arcipelagoceleste.blogspot.com/)                              | Pedro Celeste           |
 | [AUTARKIKAGDR](https://autarkikagdr.blogspot.com/)                                         | Manuel Colleoni         |
-| [Deeper Into the Dungeon](https://deeperintothedungeon.wordpress.com/)                     | anon                    |
+| [Deeper Into the Dungeon](https://deeperintothedungeon.wordpress.com/)                     | Alessio Persichetti     |
 | [Dietro lo Schermo](https://dietroschermo.wordpress.com/)                                  | Bille Boo               |
 | [Bad Whiskey Games](https://badwhiskeygames.blogspot.com/)                                 | Simone Di Francesco     |
 | [Geecko on the Wall](https://www.geeckoonthewall.eu/)                                      | Daniele Di Rubbo        |
