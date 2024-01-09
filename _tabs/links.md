@@ -4,17 +4,23 @@ icon: fa-solid fa-star
 order: 5
 ---
 
-### Communities
+### Community
+
+> Spazi di discussione, sale segrete, fumosi ritrovi per tombaroli.
 
 <i class="fa-brands fa-telegram"></i>&nbsp; [Ruling the Game](https://t.me/osritalia)
 
-<i class="fa-brands fa-discord"></i> [Il Grande COSMO](https://discord.gg/asQPwXPXeB) - Convention Old School Mensile Online
+<i class="fa-brands fa-discord"></i> [Il Grande COSMO](https://discord.gg/asQPwXPXeB)&ensp;-&ensp;Convention Old School Mensile Online
 
 &nbsp;<i class="fa-solid fa-asterisk"></i>&nbsp; [Alleanza OSR Pizza](https://linktr.ee/alleanzaosrpizza)
 
-<i class="fa-brands fa-facebook"></i>&nbsp; [OSR Italia](https://www.facebook.com/groups/osritalia/) <span style="color:#ccc6ba">[archiviato]</span>
+<i class="fa-brands fa-facebook"></i>&nbsp; [OSR Italia](https://www.facebook.com/groups/osritalia/)&ensp;-&ensp;<span style="color:#ccc6ba">archiviato</span>
 
 ### Blogroll
+
+> Nel microcosmo dell'OSR è tradizione, per ogni blog che si rispetti, avere un **blogroll**. Il blogroll conduce ad altri blog, i quali conducono a loro volta ad altri blog ancora e forse di nuovo al blog iniziale. Questo labirinto di specchi serve soprattutto a una cosa: perdersi.
+
+> Sepolti in questi blog ci sono forse gli scritti più creativi, squilibrati e penetranti che l'OSR ha da offrire, in Italia e altrove. A volte la presenza di un blog in una lista del genere è ovvia, in altri casi è meno chiara. Per alcuni blog, un secondo link (sotto l'icona <i class="fa-solid fa-star"></i>) conduce direttamente a un post che ritengo sia un *must read*. 
 
 | <i class="fa-solid fa-italic"></i>                                          |  <i class="fa-solid fa-star"></i>        | Autore                |
 |:----------------------------------------------------------------------------|:----------------------------------------:|----------------------:|
@@ -67,3 +73,6 @@ order: 5
 | [Ten Foot Polemic](https://tenfootpolemic.blogspot.com/)                    | [<i class="fa-solid fa-link"></i>](https://dungeon-keys.github.io/) | James Young           |
 | [Highland Paranormal Society](https://natetreme.com/)                       |                                          | Nate Treme            |
 | [The Goatman's Goblet](https://www.goatmansgoblet.com/)                     | [<i class="fa-solid fa-link"></i>](https://dungeon-keys.github.io/) | Brian Richmond        |
+| [Questing Beast](https://questingblog.com/)                                 |                                          | Ben Milton            |
+| [What Would Conan Do?](https://whatwouldconando.blogspot.com/)              |                                          | Daniel Sell           |
+| [Cavegirl's Game Stuff](https://cavegirlgames.blogspot.com/)                |                                          | Emmy Allen            |
