@@ -20,7 +20,7 @@ order: 5
 
 > Nel microcosmo dell'OSR è tradizione, per ogni blog che si rispetti, avere un **blogroll**. Il blogroll conduce ad altri blog, i quali conducono a loro volta ad altri blog ancora e forse di nuovo al blog iniziale. Questo labirinto di specchi serve soprattutto a una cosa: perdersi.
 
-> Sepolti in questi blog ci sono forse gli scritti più creativi, squilibrati e penetranti che l'OSR ha da offrire, in Italia e altrove. A volte la presenza di un blog in una lista del genere è ovvia, in altri casi è meno chiara. Per alcuni blog, un secondo link (sotto l'icona <i class="fa-solid fa-star"></i>) conduce direttamente a un post che ritengo sia un *must read*. 
+> Sepolti in questi blog ci sono forse gli scritti più creativi, squilibrati e penetranti che l'OSR ha da offrire, in Italia e altrove. Per alcuni blog, un secondo link (sotto l'icona <i class="fa-solid fa-star"></i>) conduce direttamente a un post che consiglio a tutti: un *must read*. 
 
 | <i class="fa-solid fa-italic"></i>                                          |  <i class="fa-solid fa-star"></i>        | Autore                |
 |:----------------------------------------------------------------------------|:----------------------------------------:|----------------------:|
