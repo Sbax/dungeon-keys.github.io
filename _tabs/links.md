@@ -28,17 +28,18 @@ order: 5
 | [Arcipelago Celeste](https://arcipelagoceleste.blogspot.com/)               | [<i class="fa-solid fa-link"></i>](https://arcipelagoceleste.blogspot.com/2022/01/la-rosa-purpurea-di-vaarn.html) | Pedro Celeste         |
 | [AUTARKIKAGDR](https://autarkikagdr.blogspot.com/)                          |                                          | Manuel Colleoni       |
 | [Deeper Into the Dungeon](https://deeperintothedungeon.wordpress.com/)      | [<i class="fa-solid fa-link"></i>](https://deeperintothedungeon.wordpress.com/2021/04/17/il-sabba-del-ratto-pallido-avventura-per-il-carnevale-bloghereccio-a-tema-festivita/) [<i class="fa-solid fa-link"></i>](https://deeperintothedungeon.wordpress.com/2020/06/25/what-i-like-as-modern-gamer-abour-osr/) | Alessio Persichetti   |
-| [The circular ruins](https://thecircularuins.blogspot.com/)                 | [<i class="fa-solid fa-link"></i>](https://dungeon-keys.github.io/) | Edoardo Andreani      |
-| [Dietro lo Schermo](https://dietroschermo.wordpress.com/)                   | [<i class="fa-solid fa-link"></i>](https://dungeon-keys.github.io/) | Bille Boo             |
-| [Bad Whiskey Games](https://badwhiskeygames.blogspot.com/)                  | [<i class="fa-solid fa-link"></i>](https://dungeon-keys.github.io/) | Simone Di Francesco   |
+| [The circular ruins](https://thecircularuins.blogspot.com/)                 | [<i class="fa-solid fa-link"></i>](https://thecircularuins.blogspot.com/2019/08/la-grotta-muschiosa.html) [<i class="fa-solid fa-link"></i>](https://thecircularuins.blogspot.com/2019/07/oggetti-e-ricompense.html) | Edoardo Andreani      |
+| [Dietro lo Schermo](https://dietroschermo.wordpress.com/)                   | [<i class="fa-solid fa-link"></i>](https://dietroschermo.wordpress.com/le-tavole-del-mio-dd/) | Bille Boo             |
+| [Bad Whiskey Games](https://badwhiskeygames.blogspot.com/)                  |                                          | Simone Di Francesco   |
 | [Geecko on the Wall](https://www.geeckoonthewall.eu/)                       |                                          | Daniele Di Rubbo      |
 | [I Cancelli di Hellwinter](https://hellwinter.blogspot.com/)                | [<i class="fa-solid fa-link"></i>](https://dungeon-keys.github.io/) | Andrea Tupac Mollica  |
 | [Omnia Incommoda, Certitudo Nulla](https://oicn.icu/)                       | [<i class="fa-solid fa-link"></i>](https://dungeon-keys.github.io/) | The Kernel in Yellow  |
 | [Dada Dan Akiko](https://write.as/jonnie/)                                  | [<i class="fa-solid fa-link"></i>](https://dungeon-keys.github.io/) | Dada Dan Akiko        |
 | [Ruling With Archangels](https://archangelruling.blogfree.net/)             |                                          | Barakiel              |
+| [Il Calderone del Troll](https://calderonedeltroll.blogspot.com/)           |                                          | Gregorio - Viandante  |
 | [Gli gnoll hanno massacrato la mia famiglia](https://gnollmassacrofamiglia.blogspot.com/)  |                           | Luca Negri            |
 | [icemaze](https://icemaze.it/en/)                                           |                                          | icemaze               |
-| [Il Calderone del Troll](https://calderonedeltroll.blogspot.com/)           |                                          | Gregorio - Viandante  |
+
 
 Gli aggiornamenti dell'italica blogosfera si possono seguire anche su [La Gazzetta dell'OSR](https://gazzetta.oicn.icu/).
 
