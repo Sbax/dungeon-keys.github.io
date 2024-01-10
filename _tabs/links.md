@@ -14,20 +14,20 @@ order: 5
 
 &nbsp;<i class="fa-solid fa-asterisk"></i>&nbsp; [Alleanza OSR Pizza](https://linktr.ee/alleanzaosrpizza)
 
-<i class="fa-brands fa-facebook"></i>&nbsp; [OSR Italia](https://www.facebook.com/groups/osritalia/)&ensp;-&ensp;<span style="color:#ccc6ba">archiviato</span>
+<i class="fa-brands fa-facebook"></i>&nbsp; [OSR Italia](https://www.facebook.com/groups/osritalia/)&ensp;-&ensp;<span style="color:#ccc6ba">archiviato</span>     
 
 ### Blogroll
 
-> Nel microcosmo dell'OSR è tradizione, per ogni blog che si rispetti, avere un **blogroll**. Il blogroll conduce ad altri blog, i quali conducono a loro volta ad altri blog ancora e forse di nuovo al blog iniziale. Questo labirinto di specchi serve soprattutto a una cosa: perdersi.
+> Nel microcosmo dell'OSR è tradizione, per ogni blog che si rispetti, avere un <span style="color:#fffcf2">**blogroll**</span>. Il blogroll conduce ad altri blog, i quali conducono a loro volta ad altri blog ancora e forse di nuovo al blog iniziale. Questo labirinto di specchi serve soprattutto a una cosa: perdersi.
 
-> Sepolti in questi blog ci sono forse gli scritti più creativi, squilibrati e penetranti che l'OSR ha da offrire, in Italia e altrove. Per alcuni blog, un secondo link (sotto l'icona <i class="fa-solid fa-star"></i>) conduce direttamente a un post che consiglio a tutti: un *must read*. 
+> Sepolti in questi blog ci sono forse gli scritti più creativi, squilibrati e penetranti che l'OSR ha da offrire, in Italia e altrove. Per alcuni blog ho inserito altri link sotto l'icona <span style="color:#fffcf2"><i class="fa-solid fa-star"></i></span>: conducono direttamente a post che consiglio a tutti, veri e propri *must read* per tutti i lettori di Dungeon Keys. 
 
-| <i class="fa-solid fa-italic"></i>                                          |  <i class="fa-solid fa-star"></i>        | Autore                |
+| <i class="fa-solid fa-italic"></i>                                          |  <i class="fa-solid fa-star"></i>        | <i class="fa-solid fa-pen-nib"></i> |
 |:----------------------------------------------------------------------------|:----------------------------------------:|----------------------:|
-| [La Fumeria dei Pensieri Incompiuti](https://dismastersden.blogspot.com/)   | [<i class="fa-solid fa-link"></i>](https://dungeon-keys.github.io/) | Dismaster FraNe       |
-| [Arcipelago Celeste](https://arcipelagoceleste.blogspot.com/)               | [<i class="fa-solid fa-link"></i>](https://dungeon-keys.github.io/) | Pedro Celeste         |
+| [La Fumeria dei Pensieri Incompiuti](https://dismastersden.blogspot.com/)   | [<i class="fa-solid fa-link"></i>](https://dismastersden.blogspot.com/2020/11/chiedimi-dellosr.html) [<i class="fa-solid fa-link"></i>](https://dismastersden.blogspot.com/2021/02/chiedimi-della-democrazia-gygaxiana.html) [<i class="fa-solid fa-link"></i>](https://dismastersden.blogspot.com/2021/09/lotfp-non-ha-la-regola-zero.html) | Dismaster FraNe       |
+| [Arcipelago Celeste](https://arcipelagoceleste.blogspot.com/)               | [<i class="fa-solid fa-link"></i>](https://arcipelagoceleste.blogspot.com/2022/01/la-rosa-purpurea-di-vaarn.html) | Pedro Celeste         |
 | [AUTARKIKAGDR](https://autarkikagdr.blogspot.com/)                          |                                          | Manuel Colleoni       |
-| [Deeper Into the Dungeon](https://deeperintothedungeon.wordpress.com/)      | [<i class="fa-solid fa-link"></i>](https://dungeon-keys.github.io/) | Alessio Persichetti   |
+| [Deeper Into the Dungeon](https://deeperintothedungeon.wordpress.com/)      | [<i class="fa-solid fa-link"></i>](https://deeperintothedungeon.wordpress.com/2021/04/17/il-sabba-del-ratto-pallido-avventura-per-il-carnevale-bloghereccio-a-tema-festivita/) [<i class="fa-solid fa-link"></i>](https://deeperintothedungeon.wordpress.com/2020/06/25/what-i-like-as-modern-gamer-abour-osr/) | Alessio Persichetti   |
 | [The circular ruins](https://thecircularuins.blogspot.com/)                 | [<i class="fa-solid fa-link"></i>](https://dungeon-keys.github.io/) | Edoardo Andreani      |
 | [Dietro lo Schermo](https://dietroschermo.wordpress.com/)                   | [<i class="fa-solid fa-link"></i>](https://dungeon-keys.github.io/) | Bille Boo             |
 | [Bad Whiskey Games](https://badwhiskeygames.blogspot.com/)                  | [<i class="fa-solid fa-link"></i>](https://dungeon-keys.github.io/) | Simone Di Francesco   |
@@ -42,7 +42,7 @@ order: 5
 
 Gli aggiornamenti dell'italica blogosfera si possono seguire anche su [La Gazzetta dell'OSR](https://gazzetta.oicn.icu/).
 
-| <i class="fa-solid fa-earth-americas"></i>                                  |  <i class="fa-solid fa-star"></i>        | Autore                |
+| <i class="fa-solid fa-earth-americas"></i>                                  |  <i class="fa-solid fa-star"></i>        | <i class="fa-solid fa-pen-nib"></i>  |
 |:----------------------------------------------------------------------------|:----------------------------------------:|----------------------:|
 | [Goblin Punch](https://goblinpunch.blogspot.com/)                           | [<i class="fa-solid fa-link"></i>](https://dungeon-keys.github.io/) | Arnold Kemp           |
 | [GROGNARDIA](https://grognardia.blogspot.com/)                              | [<i class="fa-solid fa-link"></i>](https://dungeon-keys.github.io/) | James Maliszewski     |
