@@ -18,8 +18,6 @@ order: 5
 
 ### Blogroll
 
-> Nel microcosmo dell'OSR è tradizione, per ogni blog che si rispetti, avere un <span style="color:#fffcf2">**blogroll**</span>. Il blogroll conduce ad altri blog, i quali conducono a loro volta ad altri blog ancora e forse di nuovo al blog iniziale. Questo labirinto di specchi serve soprattutto a una cosa: perdersi.
-
 > Sepolti in questi blog ci sono forse gli scritti più creativi, squilibrati e penetranti che l'OSR ha da offrire, in Italia e altrove. Per alcuni blog ho inserito altri link sotto l'icona <span style="color:#fffcf2"><i class="fa-solid fa-star"></i></span>: conducono direttamente a post che consiglio a tutti, veri e propri *must read* per tutti i lettori di Dungeon Keys. 
 
 | <i class="fa-solid fa-italic"></i>                                          |  <i class="fa-solid fa-star"></i>        | <i class="fa-solid fa-pen-nib"></i> |
@@ -47,10 +45,10 @@ Gli aggiornamenti dell'italica blogosfera si possono seguire anche su [La Gazzet
 | [Goblin Punch](https://goblinpunch.blogspot.com/)                           | [<i class="fa-solid fa-link"></i>](https://goblinpunch.blogspot.com/2020/05/advice-for-osr-dms.html) [<i class="fa-solid fa-link"></i>](https://goblinpunch.blogspot.com/2016/01/dungeon-checklist.html) [<i class="fa-solid fa-link"></i>](https://goblinpunch.blogspot.com/2017/09/the-inextricable-grace-of-elves.html) | Arnold Kemp           |
 | [GROGNARDIA](https://grognardia.blogspot.com/)                              | [<i class="fa-solid fa-link"></i>](https://grognardia.blogspot.com/2008/09/gygaxian-naturalism.html) | James Maliszewski     |
 | [Coins and Scrolls](https://coinsandscrolls.blogspot.com/)                  | [<i class="fa-solid fa-link"></i>](https://coinsandscrolls.blogspot.com/2020/09/osr-interesting-lists-and-petty-gods.html) [<i class="fa-solid fa-link"></i>](https://coinsandscrolls.blogspot.com/2023/05/osr-eight-diseases-of-wizards.html) [<i class="fa-solid fa-link"></i>](https://coinsandscrolls.blogspot.com/2019/06/osr-sienas-6-mile-hex.html) | Skerples              | 
-| [Beyond Fomalhaut](https://beyondfomalhaut.blogspot.com/)                   | [<i class="fa-solid fa-link"></i>](https://beyondfomalhaut.blogspot.com/2021/11/blog-hex-crawls-simple-guide.html) [<i class="fa-solid fa-link"></i>](https://beyondfomalhaut.blogspot.com/2021/11/blog-hex-crawls-simple-guide.html) | Melan                 | 
+| [Beyond Fomalhaut](https://beyondfomalhaut.blogspot.com/)                   | [<i class="fa-solid fa-link"></i>](https://beyondfomalhaut.blogspot.com/2021/11/blog-hex-crawls-simple-guide.html) [<i class="fa-solid fa-link"></i>](https://beyondfomalhaut.blogspot.com/2016/09/blog-dirt-cheap-sandbox.html) [<i class="fa-solid fa-link"></i>](https://beyondfomalhaut.blogspot.com/2020/05/blog-anatomy-of-dungeon-map.html) | Melan                 | 
 | [tenfootpole.org](https://tenfootpole.org/ironspike/)                       |                                          | Bryce Lynch           |
-| [Monsters and Manuals](https://monstersandmanuals.blogspot.com/)            | [<i class="fa-solid fa-link"></i>](https://dungeon-keys.github.io/) | noisms                |
-| [Hack & Slash](https://hackslashmaster.blogspot.com/)                       | [<i class="fa-solid fa-link"></i>](https://dungeon-keys.github.io/) | Courtney Campbell     |
+| [Monsters and Manuals](https://monstersandmanuals.blogspot.com/)            | [<i class="fa-solid fa-link"></i>](https://monstersandmanuals.blogspot.com/2023/04/pen-and-paper-role-playing-games-as.html) [<i class="fa-solid fa-link"></i>](https://monstersandmanuals.blogspot.com/2023/01/playing-to-win-versus-playing-role.html) [<i class="fa-solid fa-link"></i>](https://monstersandmanuals.blogspot.com/2023/01/the-motivated-sandbox-search-or.html) | noisms                |
+| [Hack & Slash](https://hackslashmaster.blogspot.com/)                       | [<i class="fa-solid fa-link"></i>](https://hackslashmaster.blogspot.com/2011/10/on-creative-crocodile-conundrum.html) [<i class="fa-solid fa-link"></i>](https://hackslashmaster.blogspot.com/2018/02/on-so-called-wilderness.html) [<i class="fa-solid fa-link"></i>](https://hackslashmaster.blogspot.com/2019/10/on-rules-of-game.html) | Courtney Campbell     |
 | [Le Chaudron Chromatique](https://chaudronchromatique.blogspot.com/)        | [<i class="fa-solid fa-link"></i>](https://dungeon-keys.github.io/) | Evlyn Moreau          | 
 | [Zedeck Siew's Writing Hours](https://zedecksiew.tumblr.com/)               | [<i class="fa-solid fa-link"></i>](https://dungeon-keys.github.io/) | Zedeck Siew           |
 | [Necropraxis](https://www.necropraxis.com/about/)                           |                                          | Brendan S             | 
@@ -64,13 +62,13 @@ Gli aggiornamenti dell'italica blogosfera si possono seguire anche su [La Gazzet
 | [A Distant Chime](https://espharel.blogspot.com/)                           |                                          | The Byzantine         | 
 | [Hill Cantons](https://hillcantons.blogspot.com/)                           |                                          | Chris Kutalik         |
 | [Simulacrum: Exploring OSR Design](https://osrsimulacrum.blogspot.com/) &emsp;&emsp;&emsp; | [<i class="fa-solid fa-link"></i>](https://dungeon-keys.github.io/) | anon |
-| [Bat in the Attic](https://batintheattic.blogspot.com/)                     | [<i class="fa-solid fa-link"></i>](https://dungeon-keys.github.io/) | Robert Conley         |
+| [Bat in the Attic](https://batintheattic.blogspot.com/)                     | [<i class="fa-solid fa-link"></i>](https://batintheattic.blogspot.com/2009/08/how-to-make-fantasy-sandbox.html) | Robert Conley         |
 | [Throne of Salt](https://throneofsalt.blogspot.com/)                        | [<i class="fa-solid fa-link"></i>](https://dungeon-keys.github.io/) | Dan                   | 
 | [Rise Up Comus](https://riseupcomus.blogspot.com/)                          | [<i class="fa-solid fa-link"></i>](https://dungeon-keys.github.io/) | Josh                  | 
 | [Trilemma Adventures](https://blog.trilemma.com/)                          | [<i class="fa-solid fa-link"></i>](https://dungeon-keys.github.io/) | Michael Prescott      | 
 | [False Machine](https://falsemachine.blogspot.com/)                         |                                          | Patrick Stuart        | 
 | [Wizard Thief Fighter](https://www.wizardthieffighter.com/)                 |                                          | Luka Rejec            | 
-| [Jeff's Gameblog](https://jrients.blogspot.com/)                            | [<i class="fa-solid fa-link"></i>](https://dungeon-keys.github.io/) | Jeff Rients           | 
+| [Jeff's Gameblog](https://jrients.blogspot.com/)                            | [<i class="fa-solid fa-link"></i>](https://jrients.blogspot.com/2011/04/twenty-quick-questions-for-your.html) | Jeff Rients           | 
 | [Monster Manual Sewn From Pants](https://monstermanualsewnfrompants.blogspot.com/) |                                   | Scrap Princess        | 
 | [Luke Gearing](https://lukegearing.blot.im/)                                |                                          | Luke Gearing          |
 | [Lamentations of the Flame Princess](https://lotfp.blogspot.com/)           |                                          | James Edward Raggi IV |
