@@ -32,14 +32,13 @@ order: 5
 | [Dietro lo Schermo](https://dietroschermo.wordpress.com/)                   | [<i class="fa-solid fa-link"></i>](https://dietroschermo.wordpress.com/le-tavole-del-mio-dd/) | Bille Boo             |
 | [Bad Whiskey Games](https://badwhiskeygames.blogspot.com/)                  |                                          | Simone Di Francesco   |
 | [Geecko on the Wall](https://www.geeckoonthewall.eu/)                       |                                          | Daniele Di Rubbo      |
-| [I Cancelli di Hellwinter](https://hellwinter.blogspot.com/)                | [<i class="fa-solid fa-link"></i>](https://dungeon-keys.github.io/) | Andrea Tupac Mollica  |
-| [Omnia Incommoda, Certitudo Nulla](https://oicn.icu/)                       | [<i class="fa-solid fa-link"></i>](https://dungeon-keys.github.io/) | The Kernel in Yellow  |
-| [Dada Dan Akiko](https://write.as/jonnie/)                                  | [<i class="fa-solid fa-link"></i>](https://dungeon-keys.github.io/) | Dada Dan Akiko        |
+| [Omnia Incommoda, Certitudo Nulla](https://oicn.icu/)                       | [<i class="fa-solid fa-link"></i>](https://oicn.icu/2020/guida-di-sopravvivenza-per-nuovi-gm/) [<i class="fa-solid fa-link"></i>](https://oicn.icu/2023/l-astrologo-una-classe-per-rinascimento-2e/) [<i class="fa-solid fa-link"></i>](https://oicn.icu/2023/di-licenze-open-e-altre-sciocchezze/) | The Kernel in Yellow  |
+| [Dada Dan Akiko](https://write.as/jonnie/)                                  | [<i class="fa-solid fa-link"></i>](https://write.as/jonnie/la-natura-di-draghi) [<i class="fa-solid fa-link"></i>](https://write.as/jonnie/a-cosa-serve-una-foresta-nel-medioevo) | Dada Dan Akiko        |
 | [Ruling With Archangels](https://archangelruling.blogfree.net/)             |                                          | Barakiel              |
-| [Il Calderone del Troll](https://calderonedeltroll.blogspot.com/)           |                                          | Gregorio - Viandante  |
+| [I Cancelli di Hellwinter](https://hellwinter.blogspot.com/)                |                                          | Andrea Tupac Mollica  |
+| [Il Calderone del Troll](https://calderonedeltroll.blogspot.com/)           | [<i class="fa-solid fa-link"></i>](https://calderonedeltroll.blogspot.com/2022/09/lalbero-per-tir-na-nog-un-dungeon-per.html) [<i class="fa-solid fa-link"></i>](https://calderonedeltroll.blogspot.com/2022/09/cuore-di-tenebra-uno-scenariorettilario.html) | Gregorio - Viandante  |
 | [Gli gnoll hanno massacrato la mia famiglia](https://gnollmassacrofamiglia.blogspot.com/)  |                           | Luca Negri            |
 | [icemaze](https://icemaze.it/en/)                                           |                                          | icemaze               |
-
 
 Gli aggiornamenti dell'italica blogosfera si possono seguire anche su [La Gazzetta dell'OSR](https://gazzetta.oicn.icu/).
 
