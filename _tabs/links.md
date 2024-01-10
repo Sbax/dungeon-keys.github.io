@@ -44,10 +44,10 @@ Gli aggiornamenti dell'italica blogosfera si possono seguire anche su [La Gazzet
 
 | <i class="fa-solid fa-earth-americas"></i>                                  |  <i class="fa-solid fa-star"></i>        | <i class="fa-solid fa-pen-nib"></i>  |
 |:----------------------------------------------------------------------------|:----------------------------------------:|----------------------:|
-| [Goblin Punch](https://goblinpunch.blogspot.com/)                           | [<i class="fa-solid fa-link"></i>](https://dungeon-keys.github.io/) | Arnold Kemp           |
-| [GROGNARDIA](https://grognardia.blogspot.com/)                              | [<i class="fa-solid fa-link"></i>](https://dungeon-keys.github.io/) | James Maliszewski     |
-| [Coins and Scrolls](https://coinsandscrolls.blogspot.com/)                  | [<i class="fa-solid fa-link"></i>](https://dungeon-keys.github.io/) | Skerples              | 
-| [Beyond Fomalhaut](https://beyondfomalhaut.blogspot.com/)                   | [<i class="fa-solid fa-link"></i>](https://dungeon-keys.github.io/) | Melan                 | 
+| [Goblin Punch](https://goblinpunch.blogspot.com/)                           | [<i class="fa-solid fa-link"></i>](https://goblinpunch.blogspot.com/2020/05/advice-for-osr-dms.html) [<i class="fa-solid fa-link"></i>](https://goblinpunch.blogspot.com/2016/01/dungeon-checklist.html) [<i class="fa-solid fa-link"></i>](https://goblinpunch.blogspot.com/2017/09/the-inextricable-grace-of-elves.html) | Arnold Kemp           |
+| [GROGNARDIA](https://grognardia.blogspot.com/)                              | [<i class="fa-solid fa-link"></i>](https://grognardia.blogspot.com/2008/09/gygaxian-naturalism.html) | James Maliszewski     |
+| [Coins and Scrolls](https://coinsandscrolls.blogspot.com/)                  | [<i class="fa-solid fa-link"></i>](https://coinsandscrolls.blogspot.com/2020/09/osr-interesting-lists-and-petty-gods.html) [<i class="fa-solid fa-link"></i>](https://coinsandscrolls.blogspot.com/2023/05/osr-eight-diseases-of-wizards.html) [<i class="fa-solid fa-link"></i>](https://coinsandscrolls.blogspot.com/2019/06/osr-sienas-6-mile-hex.html) | Skerples              | 
+| [Beyond Fomalhaut](https://beyondfomalhaut.blogspot.com/)                   | [<i class="fa-solid fa-link"></i>](https://beyondfomalhaut.blogspot.com/2021/11/blog-hex-crawls-simple-guide.html) [<i class="fa-solid fa-link"></i>](https://beyondfomalhaut.blogspot.com/2021/11/blog-hex-crawls-simple-guide.html) | Melan                 | 
 | [tenfootpole.org](https://tenfootpole.org/ironspike/)                       |                                          | Bryce Lynch           |
 | [Monsters and Manuals](https://monstersandmanuals.blogspot.com/)            | [<i class="fa-solid fa-link"></i>](https://dungeon-keys.github.io/) | noisms                |
 | [Hack & Slash](https://hackslashmaster.blogspot.com/)                       | [<i class="fa-solid fa-link"></i>](https://dungeon-keys.github.io/) | Courtney Campbell     |
@@ -63,7 +63,7 @@ Gli aggiornamenti dell'italica blogosfera si possono seguire anche su [La Gazzet
 | [In Places Deep](https://inplacesdeep.blogspot.com/)                        | [<i class="fa-solid fa-link"></i>](https://dungeon-keys.github.io/) | Miranda               | 
 | [A Distant Chime](https://espharel.blogspot.com/)                           |                                          | The Byzantine         | 
 | [Hill Cantons](https://hillcantons.blogspot.com/)                           |                                          | Chris Kutalik         |
-| [Simulacrum: Exploring OSR Design](https://osrsimulacrum.blogspot.com/) &emsp;&emsp;&emsp;&emsp; | [<i class="fa-solid fa-link"></i>](https://dungeon-keys.github.io/) | anon |
+| [Simulacrum: Exploring OSR Design](https://osrsimulacrum.blogspot.com/) &emsp;&emsp;&emsp; | [<i class="fa-solid fa-link"></i>](https://dungeon-keys.github.io/) | anon |
 | [Bat in the Attic](https://batintheattic.blogspot.com/)                     | [<i class="fa-solid fa-link"></i>](https://dungeon-keys.github.io/) | Robert Conley         |
 | [Throne of Salt](https://throneofsalt.blogspot.com/)                        | [<i class="fa-solid fa-link"></i>](https://dungeon-keys.github.io/) | Dan                   | 
 | [Rise Up Comus](https://riseupcomus.blogspot.com/)                          | [<i class="fa-solid fa-link"></i>](https://dungeon-keys.github.io/) | Josh                  | 
