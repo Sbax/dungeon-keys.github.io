@@ -85,8 +85,8 @@ comments:
     shortname: #dungeon-keys 
   # utterances settings › https://utteranc.es/
   utterances:
-    repo: # <gh-username>/<repo>
-    issue_term: # < url | pathname | title | ...>
+    repo: dungeon-keys/dungeon-keys.github.io
+    issue_term: pathname
   # Giscus options › https://giscus.app
   giscus:
     repo: 
