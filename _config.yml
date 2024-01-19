@@ -79,7 +79,7 @@ avatar: "/assets/img/favicons/dkblocklogo1.svg"
 toc: true
 
 comments:
-  active: 
+  active: utterances
   # The active options are as follows:
   disqus:
     shortname: #dungeon-keys 
