@@ -21,7 +21,38 @@
       <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
     </h1> 
 -->
-    <p class="site-subtitle fst-italic mb-0">{{ site.tagline }}</p>  <!-- {{ site.tagline }} -->
+    <p id="randtag" class="site-subtitle fst-italic mb-0"> </p>  <!-- {{ site.tagline }} -->
+      <script>
+        function getRndInteger(min, max) {
+          return Math.floor(Math.random() * (max - min)) + min;
+        }
+        var TagID = getRndInteger(1,10); 
+        let randomizedtagline;
+        if (TagID == 1) {
+          randomizedtagline = "Casa dell'Obeso Stupido Ratto";
+        } else if (TagID == 2) {
+          randomizedtagline = "Strani fuochi sulle colline";
+        } else if (TagID == 3) {
+          randomizedtagline = "Ancora sotto testing";
+        } else if (TagID == 4) {
+          randomizedtagline = "Ad ventura!";
+        } else if (TagID == 5) {
+          randomizedtagline = "Il sito non è pronto!";
+        } else if (TagID == 6) {
+          randomizedtagline = "Come ci hai trovati?";
+        } else if (TagID == 7) {
+          randomizedtagline = "Contea... Baggins!";
+        } else if (TagID == 8) {
+          randomizedtagline = "Ritorneremo, prima o dopo!";
+        } else if (TagID == 9) {
+          randomizedtagline = "Bello ma non ci vivrei";
+        } else if (TagID == 10) {
+          randomizedtagline = "Blog ad alta letalità";
+        } else {
+          randomizedtagline = "Oops, qualcosa non va!";
+        }
+          document.getElementById("randtag").innerText = randomizedtagline;       
+      </script>
   </header>
   <!-- .profile-wrapper -->
 
