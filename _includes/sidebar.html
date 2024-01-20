@@ -22,42 +22,28 @@
     </h1> 
 -->
     <p id="randtag" class="site-subtitle fst-italic mb-0"> </p>  <!-- {{ site.tagline }} -->
-      <script>
-        function getRndInteger(min, max) {
-          return Math.floor(Math.random() * (max - min)) + min;
-        }
-        var TagID = getRndInteger(1,14); 
-        let randomizedtagline;
-        if (TagID == 1) {
-          randomizedtagline = "Casa dell'Obeso Stupido Ratto.";
-        } else if (TagID == 2) {
-          randomizedtagline = "Strani fuochi sulle colline...";
-        } else if (TagID == 3) {
-          randomizedtagline = "It is dangerous to go alone.";
-        } else if (TagID == 4) {
-          randomizedtagline = "Grande attenzione al background"; 
-        } else if (TagID == 5) {
-          randomizedtagline = "Ombra e fiamme.";
-        } else if (TagID == 6) {
-          randomizedtagline = "I Nani hanno scavato troppo.";
-        } else if (TagID == 7) {
-          randomizedtagline = "Andiamo a caccia di Orchi.";
-        } else if (TagID == 8) {
-          randomizedtagline = "Ritorneremo, prima o dopo!";
-        } else if (TagID == 9) {
-          randomizedtagline = "\"Bello eh, ma non ci vivrei.\"";
-        } else if (TagID == 10) {
-          randomizedtagline = "Un blog ad alta mortalità.";
-        } else if (TagID == 11) {
-          randomizedtagline = "Un blog di livello 1.";
-        } else if (TagID == 12) {
-          randomizedtagline = "1d100 taglines casuali";
-        } else if (TagID == 13) {
-          randomizedtagline = "Testing, attention please.";
-        } else {
-          randomizedtagline = "Oops, qualcosa non va!";
-        }
-          document.getElementById("randtag").innerText = randomizedtagline;       
+      <script type="text/javascript">
+       const tagLineElement = document.querySelector("#randtag");
+        if (!tagLineElement) return;
+
+        const tagLines = [
+          "Casa dell'Obeso Stupido Ratto.",
+          "Strani fuochi sulle colline...",
+          "It is dangerous to go alone.",
+          "Grande attenzione al background",
+          "Ombra e fiamme.",
+          "I Nani hanno scavato troppo.",
+          "Andiamo a caccia di Orchi.",
+          "Ritorneremo, prima o dopo!",
+          "Un blog ad alta mortalità.",
+          "Un blog di livello 1.",
+          "1d100 taglines casuali",
+          "Testing, attention please.",
+          "Oops, qualcosa non va!",
+        ];
+
+        tagLineElement.innerText =
+          tagLines[Math.floor(Math.random() * tagLines.length)];
       </script>
   </header>
   <!-- .profile-wrapper -->
