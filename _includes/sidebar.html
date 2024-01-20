@@ -23,6 +23,7 @@
 -->
     <p id="randtag" class="site-subtitle fst-italic mb-0"> </p>  <!-- {{ site.tagline }} -->
       <script type="text/javascript">
+      (() => {
        const tagLineElement = document.querySelector("#randtag");
         if (!tagLineElement) return;
 
@@ -44,6 +45,7 @@
 
         tagLineElement.innerText =
           tagLines[Math.floor(Math.random() * tagLines.length)];
+      })()
       </script>
   </header>
   <!-- .profile-wrapper -->
